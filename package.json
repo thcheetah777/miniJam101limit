@@ -1,0 +1,25 @@
+{
+  "name": "minijam101limit",
+  "version": "1.0.0",
+  "description": "A mini game made for Mini Jam #101: Limit",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thcheetah777/miniJam101limit.git"
+  },
+  "keywords": [
+    "mini-jam"
+  ],
+  "author": "thcheetah777",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thcheetah777/miniJam101limit/issues"
+  },
+  "homepage": "https://github.com/thcheetah777/miniJam101limit#readme",
+  "devDependencies": {
+    "express": "^4.17.3"
+  }
+}
